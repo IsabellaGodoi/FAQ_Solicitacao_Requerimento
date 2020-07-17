@@ -185,23 +185,3 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html'] 
-0 comments on commit b12b20b
-@IsabellaGodoi
- 
- 
-Leave a comment
-
-Attach files by dragging & dropping, selecting or pasting them.
- You’re not receiving notifications from this thread.
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
