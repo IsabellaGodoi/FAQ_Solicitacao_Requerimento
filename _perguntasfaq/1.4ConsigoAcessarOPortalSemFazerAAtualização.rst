@@ -3,4 +3,4 @@ Quando faço o login no Sistema de Requerimento de Pesquisa aparece uma aba dize
 
 Não. Você precisa atualizar as suas informações antes de seguir adiante. Isso serve para que a ANM tenha total transparência no processo de Solicitação de Requerimento de Pesquisa.
 
-.. image:: ../imagens/tela04.1_logadoSDC.png
+.. image:: ../imagens/imagem3.png
