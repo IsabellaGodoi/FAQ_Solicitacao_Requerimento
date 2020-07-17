@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'FAQ Solicitação e Requerimento'
-copyright = u'2019, ANM'
+copyright = u'2020, ANM'
 author = u'ANM'
 
 # The short X.Y version
