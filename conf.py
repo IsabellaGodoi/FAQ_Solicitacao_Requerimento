@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'FAQ Protocolo Digital'
+project = u'FAQ Solicitação e Requerimento'
 copyright = u'2019, ANM'
 author = u'ANM'
 
