@@ -42,7 +42,7 @@ Welcome to FAQ_Solicitacao_Requerimento's documentation!
    	_faqrequerimento/3.2.6ÉPossívelSolicitarUmaSubstânciaComUmDeterminadoTipoDeUsoQueTenhaUmaÁreaMáximaMenorQueAÁreaRequerida
    	_faqrequerimento/3.2.7AÁreaNaQualQueroFazerOMeuRequerimentoDePesquisaEstáOcupadaComoOSistemaVaiProcederNesseCaso
    	_faqrequerimento/3.2.8ÉObrigatórioAdicionarAsSubstânciasEUmSuperficiárioParaSeguirAdianteComOProcessoDoRequerimento
-   	_faqrequerimento/3.3Plano de pesquisa
+   	_faqrequerimento/3.3PlanodePesquisa
    	_faqrequerimento/3.3.1NãoEstouConseguindoSeguirAdianteNaFasePlanoDePesquisaPorQuê
    	_faqrequerimento/3.4Documentação Obrigatória
    	_faqrequerimento/3.4.1QuemEuPrecisoIncluirNaDocumentaçãoObrigatória
