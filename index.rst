@@ -1,89 +1,50 @@
-FAQ Protocolo Digital - ANM
-===============
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Apresentação
-
-   _perguntasfaq/1.1ComoRealizoAutenticaçãoNoSistemaParaSolicitarRequerimentosDeAutorizaçãoDePesquisa
-   _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
-   _perguntasfaq/1.3OProtocoloDigitalRespeitaDireitoPrioridade
-   _perguntasfaq/1.4QualNormativoANMProtocoloDigital
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Transição
-
-   _perguntasfaq/2.1OQueAconteceProtocolosUnidadesRegionaisANM
-   _perguntasfaq/2.2OQueAconteceComCTDM
-   _perguntasfaq/2.3HaveráPeríodoAdaptaçãoProtocolo Digital
-   _perguntasfaq/2.4OAconteceComJuntadasEnviadasCorreios
-   _perguntasfaq/2.5ProcessoEmPapelAntesDoProtocoloDigital
-   _perguntasfaq/2.6OficiosExigênciaDemaisComunicaçõesContinuarãoCorreiosDOU
-   _perguntasfaq/2.7PrazosVenceremNoFuncionamentoProtocoloDigital
+FAQ - Solicitação e Requerimento - ANM
+========================================================
 
 .. toctree::
    :maxdepth: 3
    :caption: Autenticação e Cadastro
 
-   _perguntasfaq/3.1PrecisoCertificadoDigital
-   _perguntasfaq/3.2AcessoGOVBRObrigatório
-   _perguntasfaq/3.4QualCertificadoDigital
-   _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
-   _perguntasfaq/3.6NaoTenhoCertificadoDigital
-   _perguntasfaq/3.7ComoAcessarSistemaDeDadosCadastrais
-   _perguntasfaq/3.8ComoAtualizarDadosCadastraisANM
-   _perguntasfaq/3.9CadastroSEI.rst
+    _perguntasfaq/1.1ComoRealizoAutenticaçãoNoSistemaParaSolicitarRequerimentosDeAutorizaçãoDePesquisa
+    _perguntasfaq/1.2NãoTenhoCertificadoDigitalECPFOuECNPJOndePossoObtelo
+    _perguntasfaq/1.3ConsigoAcessarTantoAMinhaPessoaFísicaQuantoPessoaJurídicaNoMesmoLogin
+    _perguntasfaq/1.4ConsigoAcessarOPortalSemFazerAAtualização
+
 
 .. toctree::
    :maxdepth: 3
-   :caption: Requisitos
+   :caption: Visualizar Portal
 
-   _perguntasfaq/4.1DevoAssinarDocumentos
-   _perguntasfaq/4.2QuaisFormatosAceitos
-   _perguntasfaq/4.3QualTamanhoArquivos
-   _perguntasfaq/4.4ComoDevoDigitalizar
-   _perguntasfaq/4.5PossoDescartarDocumento
+    _perguntasfaq/2.1QuaisFuncionalidadesExistemNaÁreaDeSolicitarRequerimentoDeAutorizaçãoDePesquisa
+    _perguntasfaq/2.2PossoConcluirORequerimentoDeAutorizaçãoDePesquisaAntesDeEfetuarOpagamentoDoBoleto
+    _perguntasfaq/2.3PrecisoImprimirNovamenteOMeuBoletoComoFaçoIsso
+    _perguntasfaq/2.4PagueiOBoletoDaMinhaSolicitaçãoDeRequerimentoDeAutorizaçãoDePesquisaOQueFaçoAgora
 
 .. toctree::
    :maxdepth: 3
-   :caption: Relacionamentos
+   :caption: Passo a Passo - Requerimento de Pesquisa
 
-   _perguntasfaq/5.1PossoAcessarOutraPessoaFísica
-   _perguntasfaq/5.2PossoLimitar
-   _perguntasfaq/5.3SouConsultor-Responsável
+    _perguntasfaq/3.1NovaSolicitação/PagamentoDoBoleto
+    _perguntasfaq/3.1.1OQueAconteceDepoisQueFaçoUmaNovaSolicitação
+    _perguntasfaq/3.1.2QuantoTempoLevaParaOSistemaReconhecerQueOBoletoFoiPago
+    _perguntasfaq/3.1.3PossoComeçarAPreencherOMeuRequerimentoDePesquisaEFfinalizaloDepois
+    _perguntasfaq/3.2Area
+    _perguntasfaq/3.2.1ComoInsiroALongitudeELatitudeDosLocaisQueDesejoFazerAMinhaPesquisa
+    _perguntasfaq/3.2.2FormatoDasCoordenadas 
+    _perguntasfaq/3.2.3FormatoDoArquivoCSVComAPoligonalDaÁrea 
+    _perguntasfaq/3.2.4IncluirCoordenadasUsandoArquivoGPX
+    _perguntasfaq/3.2.5IncluirUmUltimoPontoIgualAoPrimeiroPonto
+    _perguntasfaq/3.2.6ÉPossívelSolicitarUmaSubstânciaComUmDeterminadoTipoDeUsoQueTenhaUmaÁreaMáximaMenorQueAÁreaRequerida
+    _perguntasfaq/3.2.7AÁreaNaQualQueroFazerOMeuRequerimentoDePesquisaEstáOcupadaComoOSistemaVaiProcederNesseCaso
+    _perguntasfaq/3.2.8ÉObrigatórioAdicionarAsSubstânciasEUmSuperficiárioParaSeguirAdianteComOProcessoDoRequerimento
+    _perguntasfaq/3.3PlanodePesquisa
+    _perguntasfaq/3.3.1NãoEstouConseguindoSeguirAdianteNaFasePlanoDePesquisaPorQuê
+    _perguntasfaq/3.4DocumentaçãoObrigatória
+    _perguntasfaq/3.4.1QuemEuPrecisoIncluirNaDocumentaçãoObrigatória
+    _perguntasfaq/3.4.2QuaisDocumentosDeTerceirosEuPrecisoParaQuePossaRealizarASolicitaçãoDeRequerimentoDeAutorizaçãoDePesquisa
+    _perguntasfaq/3.5Conclusão
+    _perguntasfaq/3.5.1OQueAconteceApósAConclusãoDoRequerimentoDeAutorizaçãoDePesquisa
+    _perguntasfaq/3.5.2CasoHajaAlgumaAnexaçãoDeDocumentoNoMeuRequerimento(Juntada)PosteriormenteAElaboraçãoDoMesmoMeuProcessoSairáDaEsteiraDaANM
+    _perguntasfaq/3.5.3ExistaAlgumaPossibilidadeDaÁreaQueEuRequeriQueEstavaLivreSerOcupadaApósAConclusãoDoProcessoDeRequerimento
+    _perguntasfaq/3.5.4QuantoTempoLevaParaQueAANMMeLibereOAlvaráDaÁreaLivreQueEscolhiParaRealizarOMeuProjeto
    
-.. toctree::
-   :maxdepth: 3
-   :caption: Serviços
-   
-   _perguntasfaq/6.01SolicitarAlteracaoEmailParaRecuperacao
-   _perguntasfaq/6.03SolicitarAlteracaoSenhaParaAtualizacao
-   _perguntasfaq/6.07QuemProtocolizaCessaoParial
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Funcionamento
-   
-   _perguntasfaq/7.02comoProtocolarJuntada
-   _perguntasfaq/7.04oQueENup
-   _perguntasfaq/7.05CasoOcorraAlgumErroDePreenchimentoRequerimento
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Problemas 
-
-   _perguntasfaq/9.01esquecisenhactdm
-   _perguntasfaq/9.02transicaoCTDMesquecisenha
-   _perguntasfaq/9.04naoconsigoacessarProtocolo
-   _perguntasfaq/9.05SemAcessoInternetOuEnergia
-   _perguntasfaq/9.06ErroGrant
-   _perguntasfaq/9.07esqueciMinhaSenhaLoginUnico
-   _perguntasfaq/9.10naoTenhoCadastroLoginUnico
-   _perguntasfaq/9.16naoTenhoCadastroLoginUnicotemCTDM.rst
-   _perguntasfaq/9.11naoTenhoCertificadoDigital
-   _perguntasfaq/9.12tenhocertificadonaoaparece
-   _perguntasfaq/9.13emailNaoPreenchidoSDC
-   _perguntasfaq/9.14vocenaotemacesso
-   _perguntasfaq/9.15ContaLoginUnicoJaExiste.rst
-   _perguntasfaq/9.99comQuemPossoFalar
