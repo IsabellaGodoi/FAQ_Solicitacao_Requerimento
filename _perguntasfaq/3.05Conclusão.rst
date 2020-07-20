@@ -22,7 +22,7 @@ Sim. Existe um tipo de Requerimento chamado Licenciamento que é feito direto na
 Portanto, para a obtenção do alvará, não pode ser constatado nenhum Licenciamento durante o período de avaliação do seu Requerimento.
 
 
-3.3) Quanto tempo leva para que a ANM me libere o alvará da área Área Livre que escolhi para realizar o meu projeto?
+3.4) Quanto tempo leva para que a ANM me libere o alvará da área Área Livre que escolhi para realizar o meu projeto?
 -----------------------------------------------------------------------
 
 Esse processo leva, em média, um mês.
