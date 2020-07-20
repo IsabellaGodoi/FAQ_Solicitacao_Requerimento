@@ -3,7 +3,8 @@ FAQ Protocolo Digital - ANM
 
 .. toctree::
    :maxdepth: 3
-   :caption: Apresentação
+   :caption: AUTENTICAÇÃO E CADASTRO 
+
 
    _perguntasfaq/1.1QuandoComecaAFuncionar
    _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
@@ -12,7 +13,7 @@ FAQ Protocolo Digital - ANM
 
 .. toctree::
    :maxdepth: 3
-   :caption: Transição
+   :caption: VISUALIZAR PORTAL
 
    _perguntasfaq/2.1OQueAconteceProtocolosUnidadesRegionaisANM
    _perguntasfaq/2.2OQueAconteceComCTDM
@@ -24,7 +25,7 @@ FAQ Protocolo Digital - ANM
 
 .. toctree::
    :maxdepth: 3
-   :caption: Autenticação e Cadastro
+   :caption: PASSO-A-PASSO REQUERIMENTO DE PESQUISA
 
    _perguntasfaq/3.1PrecisoCertificadoDigital
    _perguntasfaq/3.2AcessoGOVBRObrigatório
