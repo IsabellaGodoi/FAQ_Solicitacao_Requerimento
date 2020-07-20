@@ -24,7 +24,7 @@ FAQ Protocolo Digital - ANM
    :caption: PASSO-A-PASSO REQUERIMENTO DE PESQUISA
 
    _perguntasfaq/3.01NovaSolicitaçãoPagamentoDoBoleto
-   _perguntasfaq/3.2AcessoGOVBRObrigatório
+   _perguntasfaq/3.02Area
    _perguntasfaq/3.4QualCertificadoDigital
    _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
