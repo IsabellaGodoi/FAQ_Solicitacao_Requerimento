@@ -40,6 +40,7 @@ Muitas vezes, mesmo o arquivo estando correto, o programa apresenta uma mensagem
 O ideal é abrir o arquivo .csv no bloco de notas para verificar se o problema aparece. No exemplo abaixo, veja que o Excel manteve dados na linha após o preenchimento dos números. Esta linha precisa ser eliminada. O arquivo .csv pode ser salvo em formato .txt para ser importado no pré requerimento. É possível também criar um arquivo .txt diretamente no bloco de notas, Word, ou programas similares, com o formato mostrado abaixo.
 Exemplo:
 Notar o erro ao final deste arquivo (;;;;) resultante da presença de dados nulos no Excel. Quanto isto acontecer, apagar os ponto e vírgulas da última linha.
+
 -;018;11;44;886;-;057;27;13;421
 -;018;11;44;886;-;057;26;05;361
 -;018;10;39;845;-;057;26;05;361
