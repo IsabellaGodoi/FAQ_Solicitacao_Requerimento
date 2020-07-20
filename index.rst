@@ -28,17 +28,6 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/3.03PlanoDePesquisa
    _perguntasfaq/3.04DocumentaçãoObrigatória
    _perguntasfaq/3.05Conclusão
-   
-
-.. toctree::''
-   :maxdepth: 3
-   :caption: Requisitos
-
-   _perguntasfaq/4.1DevoAssinarDocumentos
-   _perguntasfaq/4.2QuaisFormatosAceitos
-   _perguntasfaq/4.3QualTamanhoArquivos
-   _perguntasfaq/4.4ComoDevoDigitalizar
-   _perguntasfaq/4.5PossoDescartarDocumento
 
 .. toctree::
    :maxdepth: 3
