@@ -28,14 +28,6 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/3.03PlanoDePesquisa
    _perguntasfaq/3.04DocumentaçãoObrigatória
    _perguntasfaq/3.05Conclusão
-   
-.. toctree::
-   :maxdepth: 3
-   :caption: Serviços
-   
-   _perguntasfaq/6.01SolicitarAlteracaoEmailParaRecuperacao
-   _perguntasfaq/6.03SolicitarAlteracaoSenhaParaAtualizacao
-   _perguntasfaq/6.07QuemProtocolizaCessaoParial
 
 .. toctree::
    :maxdepth: 3
