@@ -18,9 +18,6 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/2.2PossoConcluirORequerimentoAntesDeEfetuarOPagamento
    _perguntasfaq/2.3PrecisoImprimirNovamenteOMeuBoletoComoFaçoIsso
    _perguntasfaq/2.4OQueFazerDepoisDePagarOBoleto
-   _perguntasfaq/2.5ProcessoEmPapelAntesDoProtocoloDigital
-   _perguntasfaq/2.6OficiosExigênciaDemaisComunicaçõesContinuarãoCorreiosDOU
-   _perguntasfaq/2.7PrazosVenceremNoFuncionamentoProtocoloDigital
 
 .. toctree::
    :maxdepth: 3
