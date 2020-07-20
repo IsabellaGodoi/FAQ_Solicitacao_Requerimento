@@ -54,17 +54,8 @@ Para adicionar coordenadas usando arquivo .GPX segue a mesma regra dos rumos NS/
 Ao finalizar a poligonal é necessário que o último ponto seja igual ao primeiro, para que o polígono seja fechado. Algumas vezes, com o ajuste dos décimos de segundos, ao final da poligonal não se consegue incluir um último ponto igual ao primeiro, já que não existe nenhuma coordenada comum entre eles. Neste caso será necessário incluir um ponto intermediário, conforme exemplo abaixo, para depois adicionar o ponto final.
 Exemplo inclusão ponto intermediário:
 A poligonal deste exemplo terminava no ponto 11. Neste caso, nenhuma das coordenadas (latitude ou longitude) é igual ao ponto 1. Inclui-se então o ponto 12, mantendo uma das coordenadas igual à do ponto 12 (no exemplo, a latitude) e modificando a outra coordenada para que fique igual à do ponto 1 (no exemplo, a longitude). Feito isto, basta incluir o último ponto igual ao primeiro (no exemplo, ponto 13).
-1 -18°36'07''809 -40°56'10''360
-2 -18°36'07''809 -40°55'43''256
-3 -18°36'30''245 -40°55'43''256
-4 -................. ................
-. ...................... ......................
-. ...................... ......................
-10 -................. .................
-11 -18°36'32''573 -40°56'10''380
-12 -18°36'32''573 -40°56'10''360
-13    -18°36'07''809 -40°56'10''360
 
+.. image:: ../imagens/imagem18.png
 
 3.6) É possível solicitar uma substância com um determinado tipo de uso que tenha uma área máxima menor que a área requerida?
 -----------------------------------------------------------------------
