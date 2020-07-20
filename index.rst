@@ -14,10 +14,10 @@ FAQ Protocolo Digital - ANM
    :maxdepth: 3
    :caption: VISUALIZAR PORTAL
 
-   _perguntasfaq/2.1OQueAconteceProtocolosUnidadesRegionaisANM
-   _perguntasfaq/2.2OQueAconteceComCTDM
-   _perguntasfaq/2.3HaveráPeríodoAdaptaçãoProtocolo Digital
-   _perguntasfaq/2.4OAconteceComJuntadasEnviadasCorreios
+   _perguntasfaq/2.1FuncionalidadesNaÁreaDeSolicitarRequerimento
+   _perguntasfaq/2.2PossoConcluirORequerimentoAntesDeEfetuarOPagamento
+   _perguntasfaq/2.3PrecisoImprimirNovamenteOMeuBoletoComoFaçoIsso
+   _perguntasfaq/2.4OQueFazerDepoisDePagarOBoleto
    _perguntasfaq/2.5ProcessoEmPapelAntesDoProtocoloDigital
    _perguntasfaq/2.6OficiosExigênciaDemaisComunicaçõesContinuarãoCorreiosDOU
    _perguntasfaq/2.7PrazosVenceremNoFuncionamentoProtocoloDigital
