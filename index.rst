@@ -28,14 +28,6 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/3.03PlanoDePesquisa
    _perguntasfaq/3.04DocumentaçãoObrigatória
    _perguntasfaq/3.05Conclusão
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Relacionamentos
-
-   _perguntasfaq/5.1PossoAcessarOutraPessoaFísica
-   _perguntasfaq/5.2PossoLimitar
-   _perguntasfaq/5.3SouConsultor-Responsável
    
 .. toctree::
    :maxdepth: 3
