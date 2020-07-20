@@ -41,12 +41,7 @@ O ideal é abrir o arquivo .csv no bloco de notas para verificar se o problema a
 Exemplo:
 Notar o erro ao final deste arquivo (;;;;) resultante da presença de dados nulos no Excel. Quanto isto acontecer, apagar os ponto e vírgulas da última linha.
 
--;018;11;44;886;-;057;27;13;421
--;018;11;44;886;-;057;26;05;361
--;018;10;39;845;-;057;26;05;361
--;018;10;39;845;-;057;27;13;421
--;018;11;44;886;-;057;27;13;421
-;;;;;;;;;
+.. image:: ../imagens/imagem17.png
 
 3.4) Incluir coordenadas usando arquivo .GPX
 -----------------------------------------------------------------------
