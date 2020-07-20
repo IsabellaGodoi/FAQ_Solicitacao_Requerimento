@@ -12,7 +12,7 @@ FAQ Solicitação e Requerimento - ANM
 
 .. toctree::
    :maxdepth: 3
-   :caption: VISUALIZAR PORTAL
+   :caption: O PORTAL
 
    _perguntasfaq/2.1FuncionalidadesNaÁreaDeSolicitarRequerimento
    _perguntasfaq/2.2PossoConcluirORequerimentoAntesDeEfetuarOPagamento
