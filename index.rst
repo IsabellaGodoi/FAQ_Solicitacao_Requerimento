@@ -21,7 +21,7 @@ FAQ Solicitação e Requerimento - ANM
 
 .. toctree::
    :maxdepth: 3
-   :caption: PASSO-A-PASSO REQUERIMENTO DE PESQUISA
+   :caption: INSTRUÇÕES REQUERIMENTO PESQUISA
 
    _perguntasfaq/3.01NovaSolicitaçãoPagamentoDoBoleto
    _perguntasfaq/3.02Area
