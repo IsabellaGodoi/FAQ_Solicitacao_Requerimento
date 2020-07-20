@@ -24,7 +24,7 @@ FAQ Solicitação e Requerimento - ANM
    :caption: INSTRUÇÕES REQUERIMENTO PESQUISA
 
    _perguntasfaq/3.01NovaSolicitaçãoPagamentoDoBoleto
-   _perguntasfaq/3.02Area
+   _perguntasfaq/3.02InserindoPoligonalÁrea
    _perguntasfaq/3.03PlanoDePesquisa
    _perguntasfaq/3.04DocumentaçãoObrigatória
    _perguntasfaq/3.05Conclusão

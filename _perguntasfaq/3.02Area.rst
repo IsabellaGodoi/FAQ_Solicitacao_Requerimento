@@ -1,4 +1,4 @@
-Área
+Inserindo Poligonal “Área”
 =======================================================================
 
 3.1) Como insiro a Longitude e Latitude dos locais que desejo fazer a minha pesquisa?
