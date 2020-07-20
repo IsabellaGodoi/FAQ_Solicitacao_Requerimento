@@ -6,9 +6,9 @@ FAQ Protocolo Digital - ANM
    :caption: AUTENTICAÇÃO E CADASTRO 
 
    _perguntasfaq/1.1ComoRealizoAutenticaçãoNoSistema
-   _perguntasfaq/1.2QuaisDiasHoráriosFuncionamento
-   _perguntasfaq/1.3OProtocoloDigitalRespeitaDireitoPrioridade
-   _perguntasfaq/1.4QualNormativoANMProtocoloDigital
+   _perguntasfaq/1.2OndeObterCertificadoDigitalCPFCNPJ
+   _perguntasfaq/1.3AcessarContasNoMesmoLogin
+   _perguntasfaq/1.4ConsigoAcessarOPortalSemFazerAAtualização
 
 .. toctree::
    :maxdepth: 3
