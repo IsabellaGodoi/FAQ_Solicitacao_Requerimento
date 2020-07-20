@@ -26,7 +26,7 @@ FAQ Protocolo Digital - ANM
    _perguntasfaq/3.01NovaSolicitaçãoPagamentoDoBoleto
    _perguntasfaq/3.02Area
    _perguntasfaq/3.03PlanoDePesquisa
-   _perguntasfaq/3.5NaoTenhoCadastroAcessoGOVBR
+   _perguntasfaq/3.04DocumentaçãoObrigatória
    _perguntasfaq/3.6NaoTenhoCertificadoDigital
    _perguntasfaq/3.7ComoAcessarSistemaDeDadosCadastrais
    _perguntasfaq/3.8ComoAtualizarDadosCadastraisANM
